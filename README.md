@@ -128,3 +128,14 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-s
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+## References
+
+https://github.com/gjchoi/gjchoi.github.io/blob/master/_posts/2016-02-18-Github-page%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0.md
+
+http://error404.co.kr/dev/2018/04/13/jekyll-for-windows/
