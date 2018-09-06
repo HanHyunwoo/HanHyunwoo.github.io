@@ -7,7 +7,7 @@ permalink: /about/
 <table>
   <tr>
     <th style="text-align:center;background-color:white;width:15%"><img src="http://hanhyunwoo.github.io/assets/img/posts/My_picture.jpg"></th>
-    <th style="text-align:left;font-size:1.7vmax;background-color:white;word-break: keep-all;">이름 : 한현우 (Han Hyun-woo)<br>
+    <th style="text-align:left;font-size:1.5vmax;background-color:white;word-break: keep-all;">이름 : 한현우 (Han Hyun-woo)<br>
     나이 : 29 (1990.05)<br>
     전공 : 컴퓨터보안, 컴퓨터공학<br>
     수상 : 2013년, 경상남도 기능경기대회 정보기술직종 3위(동메달)<br></th>
@@ -48,12 +48,14 @@ permalink: /about/
 </span><br><br>
 
 <span class="about_content">2013년, 전국 기능경기대회 출전<br>
+  <span class="about_sub">
     <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 경상남도 정보기술직종 대표선수
+  </span>
 </span><br><br>
 
 <hr>
 
-<span style="color:#545E69;font-weight:bold;font-size:3.5vmax;margin-bottom: 20;">Programming Language & Skill<br>
+<span style="color:#545E69;font-weight:bold;font-size:3.3vmax;margin-bottom: 20;">Programming Language & Skill<br>
   <span class="about_sub">
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Ruby (Ruby on Rails)<br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Java (Spring MVC, JSP)<br>
@@ -67,7 +69,7 @@ permalink: /about/
 </span>
 
 <br>
-<span style="color:#545E69;font-weight:bold;font-size:3.5vmax;margin-bottom: 20;">System & Network<br>
+<span style="color:#545E69;font-weight:bold;font-size:3.3vmax;margin-bottom: 20;">System & Network<br>
   <span class="about_sub">
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Linux, Windows Server 2008,2012 <br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Oracle, MySQL, MariaDB <br>
@@ -81,7 +83,7 @@ permalink: /about/
 </span>
 
 <br>
-<span style="color:#545E69;font-weight:bold;font-size:3.5vmax;margin-bottom: 20;">Security & Hacking<br>
+<span style="color:#545E69;font-weight:bold;font-size:3.3vmax;margin-bottom: 20;">Security & Hacking<br>
   <span class="about_sub">
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 웹 해킹 <br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> SQL Injection, XSS, CSRF 공격 <br>
