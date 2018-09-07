@@ -20,12 +20,12 @@ layout: compress
 
   {% if page.featured-img %}
 
-  <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/{{page.featured-img}}.jpg">
+  <div class="hero lazyload" data-bg="http://192.168.43.36:4000/assets/img/posts/{{page.featured-img}}.jpg" style="background-size:100% 100%;">
     {% else %}
-    <div class="hero dark-bg">
+    <!-- <div class="hero dark-bg"> -->
       {% endif %}
       <div class="hero__wrap">
-        <h1 class="hero__title">{{ page.title }}</h1>
+        <!-- <h1 class="hero__title">{{ page.title }}</h1>
         <p class="hero__meta">
             <span>
               <time>{{ page.date | date_to_string }}</time>&nbsp;
@@ -39,9 +39,10 @@ layout: compress
               {% endif %} read
               &nbsp;
           </span>
-        </p>
+        </p> -->
+        <dt style="color:white;font-size:2.6vmax;font-weight:bold;word-break:keep-all;">{{ page.title }}</dt>
       </div>
-    </div>
+    <!-- </div> -->
   </div>
 
   <main class="site__content">
@@ -52,7 +53,7 @@ layout: compress
 
       </article>
       <div class="post-content controls__inner">
-        <div class="controls__item prev">
+        <div class="controls__item prev" style="word-break: keep-all;">
           {% if page.previous.url %}
 
           <span>Previous</span>
@@ -67,7 +68,7 @@ layout: compress
           {% endif %}
         </div>
 
-        <div class="controls__item next">
+        <div class="controls__item next" style="word-break: keep-all;">
           {% if page.next.url %}
           <span>Next</span>
           <a href="{{page.next.url | relative_url }}">
