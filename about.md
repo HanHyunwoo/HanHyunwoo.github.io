@@ -10,7 +10,8 @@ permalink: /about/
     <th style="text-align:left;font-size:1.5vmax;background-color:white;word-break: keep-all;">이름 : 한현우 (Han Hyun-woo)<br>
     나이 : 29 (1990.05)<br>
     전공 : 컴퓨터보안, 컴퓨터공학<br>
-    수상 : 2013년, 경상남도 기능경기대회 정보기술직종 3위(동메달)<br></th>
+    수상 : 2013년, 경상남도 기능경기대회 정보기술직종 3위(동메달)
+    </th>
   </tr>
 </table>
 
@@ -25,7 +26,7 @@ permalink: /about/
   </span>
 </span><br><br>
 
-<span class="about_content">KINX - Network Engineer
+<span class="about_content">(주)KINX - Network Engineer
   <span style="font-size:12px;background: #51b7c6;font-size:1vmax;font-weight: normal;border-radius:.25em;padding:.2em.6em.3em;color: #fff;">
     2016.07 ~ 2017.11 (1년4개월)
   </span><br>
@@ -36,9 +37,9 @@ permalink: /about/
   </span>
 </span><br><br>
 
-<span class="about_content">로버무트 - Network Engineer
+<span class="about_content">(주)로버무트 - Network Engineer
   <span style="font-size:12px;background: #51b7c6;font-size:1vmax;font-weight: normal;border-radius:.25em;padding:.2em.6em.3em;color: #fff;">
-    2016.07 ~ 2017.11 (3개월 인턴)
+    2016.03 ~ 2016.05 (3개월 인턴)
   </span><br>
   <span class="about_sub">
     <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Client VPN 연결 및 유지보수<br>
