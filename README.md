@@ -130,9 +130,8 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-s
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 
-
-
-
+## 사설망으로 붙을 때 --host 0.0.0.0  옵션주고, 방화벽 내려
+jekyll serve --host 0.0.0.0
 
 ## References
 

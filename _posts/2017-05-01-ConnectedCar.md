@@ -2,13 +2,13 @@
 layout: post
 title: "커넥티드카 시스템 구축 및 운전습관 분석"
 featured-img: ConnectedCar #emile-perron-190221
-date_format: "2017.05 ~ 2017.06 (1개월)"
+date_format: "2018.05 ~ 2018.06 (1개월)"
 summary: "- Spring MVC <br> - Embedded (Arduino, LattePanda CAN통신) <br> - 빅데이터 시스템 구축 (Hadoop)<br> &nbsp;&nbsp;(데이터 적재, 분석, 저장 자동화 구현) <br> - 데이터 시각화 (Highchart, Nwagon, Zing) <br> - HTTP, TCP, FTP 프로토콜 사용"
 ---
 
 # Intro
 <!-- <dt style="font-size:20;font-weight:bold">&nbsp;&nbsp;4차 산업혁명 선도인력 과정을 통해 배운 Web, Spring, Java, Database, Hadoop, Android, R, Embedded CAN통신을 모두 이용하여 빅데이터를 이용한 운전습관 분석 프로젝트입니다.</dt><br><br> -->
- <img src="http://hanhyunwoo.github.io/assets/img/posts/ConnectedCar/intro.JPG"/><br><br>
+<img src="http://hanhyunwoo.github.io/assets/img/posts/ConnectedCar/intro.JPG"/><br><br>
 
 
 ## 시연 전체 구조

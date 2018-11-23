@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "나는 늘 배우길 원하고 있으며, 내 인생 내내 배울 것이다."
+title: "열정, 성장, 성공"
 permalink: /about/
 ---
 
@@ -31,9 +31,7 @@ permalink: /about/
     2016.07 ~ 2017.11 (1년4개월)
   </span><br>
   <span class="about_sub">
-    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 백본망 네트워크 운영 및 트래픽 관리<br>
-    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> IT인프라 및 서비스 운영관리<br>
-    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 고객서비스 컨설팅 및 기술지원
+    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 백본망 네트워크 트래픽 관리 및 기술지원<br>
   </span>
 </span><br><br>
 
@@ -42,13 +40,12 @@ permalink: /about/
     2016.03 ~ 2016.05 (3개월 인턴)
   </span><br>
   <span class="about_sub">
-    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Client VPN 연결 및 유지보수<br>
-    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 네트워크 장비 Migration 작업<br>
-    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> MSP고객사 Config Backup 및 정기점검
+    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> VPN 구축 및 유지보수<br>
+    <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 네트워크 장비 Migration 작업 및 정기점검<br>
   </span>
 </span><br><br>
 
-<span class="about_content">2013년, 전국 기능경기대회 출전<br>
+<span class="about_content">2013년, 전국 기능경기대회 정보기술직종 출전<br>
   <span class="about_sub">
     <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> 경상남도 정보기술직종 대표선수
   </span>
@@ -62,9 +59,9 @@ permalink: /about/
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Java (Spring MVC, JSP)<br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> R (Data Load, 분석, 시각화)<br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Visual Basic<br>
-  <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> JavaScript (jQuery, Ajax)<br>
+  <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> JavaScript (Node.js, React, jQuery, Ajax)<br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Shell Script<br>
-  <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Android (jQuery, Ajax)<br>
+  <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> Android<br>
   <img class="check_img" src="http://hanhyunwoo.github.io/assets/img/ok.png"> HTML, CSS (Bootstrap)
   </span>
 </span>
