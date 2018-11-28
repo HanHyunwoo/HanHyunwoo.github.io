@@ -29,7 +29,8 @@ summary: "- Spring MVC <br> - Embedded (Arduino, LattePanda CAN통신) <br> - �
  <img src="http://hanhyunwoo.github.io/assets/img/posts/ConnectedCar/flow.JPG"/><br><br>
 # TF
  <img src="http://hanhyunwoo.github.io/assets/img/posts/ConnectedCar/TF.JPG"/>
-### 소스 Github 주소 : <a href="https://github.com/HanHyunwoo/Connected_CAR" target="_blank">https://github.com/HanHyunwoo/Connected_CAR</a><br><br>
+### 소스 Github 주소 : <a href="https://github.com/HanHyunwoo/Connected_CAR/tree/master/SpringServer/Server/src/com/controller" target="_blank">웹서버 백엔드 작성코드</a>
+### 웹서버로부터 받은 로그파일 Hadoop에 자동화 적재 방법 : <a href="https://cafe.naver.com/ccar1402/143" target="_blank">구현 내용 링크</a><br><br>
 
  <img src="http://hanhyunwoo.github.io/assets/img/posts/ConnectedCar/slide1.JPG"/><br><br>
  <img src="http://hanhyunwoo.github.io/assets/img/posts/ConnectedCar/slide2.JPG"/><br><br>
